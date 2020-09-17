@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "8542716822",
+    "firebase_url": "https://sanaat-yadi.firebaseio.com",
+    "project_id": "sanaat-yadi",
+    "storage_bucket": "sanaat-yadi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8542716822:android:a5c7c8e1e9b8bc736513b7",
+        "android_client_info": {
+          "package_name": "com.sanaatyadi.app.a4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8542716822-nil50do8ibdnuc3f8hkf982tpr3jmlaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanaatyadi.app.a4",
+            "certificate_hash": "995211d594177dcb23a1da486f757ef5a927a4c4"
+          }
+        },
+        {
+          "client_id": "8542716822-neqegjv6dc3iebkaa1cstpu0hipsbsaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj8V-FPXvV3GItmwlNO-5z1Lks5pLul2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8542716822-neqegjv6dc3iebkaa1cstpu0hipsbsaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
